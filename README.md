@@ -35,3 +35,4 @@ npm install @types/node @types/mongoose @types/express @types/cors @types/compre
 Instalamos postman:
 https://app.getpostman.com/app/download/win64
 
+tiempo 1:00:00
