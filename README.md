@@ -30,3 +30,8 @@ helmet de seguridad los otros no son muy importantes
 Creamos la carpeta src con server.ts
 
 npm install @types/node @types/mongoose @types/express @types/cors @types/compression @types/morgan nodemon typescript -D
+
+
+Instalamos postman:
+https://app.getpostman.com/app/download/win64
+
