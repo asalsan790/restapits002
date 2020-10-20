@@ -6,6 +6,7 @@ import compression from 'compression'
 import cors from 'cors'
 
 import indexRoutes from './routes/indexRoutes'
+import  postRoutes from './routes/postRoutes'
 class Server {
     private app: express.Application
     constructor(){
@@ -38,6 +39,8 @@ class Server {
     }
     routes(){ // paso 2
         this.app.use(indexRoutes)
+        // Para que todas las rutas tengan el prefijo
+        this.app.use('/api/posts', postRoutes)
     }
     start(){
         this.app.listen(this.app.get('port'), 
