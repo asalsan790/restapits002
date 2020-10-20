@@ -1,5 +1,7 @@
 # Apliacación REST API con typescript y mongoDB
 
+Esta es la parte 002, anteriormente están restapits000 y restapits001
+
 Hay un documento en drive
 Herramientas y primeros pasos:
 
