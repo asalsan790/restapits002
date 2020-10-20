@@ -1,5 +1,8 @@
 # Apliacación REST API con typescript y mongoDB
 
+El código comppleto en: https://github.com/FaztTech/rest-api-typescript
+
+
 Esta es la parte 002, anteriormente están restapits000 y restapits001
 
 Hay un documento en drive
